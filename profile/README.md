@@ -6,11 +6,11 @@
 
 # Bitlaab Bolt
 
-A Cross-platform GUI Toolset for Building Lightning Fast Desktop Application in Zig
+A Cross-platform GUI Toolset for Building Lightning Fast Desktop Applications in Zig
 
-If you need more code coverage, Please drop a mail at **hello.bitlaab@gmail.com** and buy us some coffee.
+If you need custom modules or tools, please mail us at **hello.bitlaab@gmail.com** and buy us some coffee.
 
- <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
+ <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://github.com/bitlaab-bolt/.github/blob/main/profile/coffee-btn.svg" alt="Buy Us Some Coffee" style="height:56px; width:248px" /></a>
 
 </div>
 
