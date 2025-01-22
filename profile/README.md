@@ -4,7 +4,7 @@
 
  <div align="left">
 
-# Bitlaab Bolt - 
+# Bitlaab Bolt
 
 A Cross-platform GUI Toolset for Building Lightning Fast Desktop Application in Zig
 
