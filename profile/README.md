@@ -8,6 +8,10 @@
 
 A Cross-platform GUI Toolset for Building Lightning Fast Desktop Application in Zig
 
+If you need more code coverage, Please create an issue and buy us some coffee.
+
+ <a href="https://buymeacoffee.com/neyaznafiz" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height:56px; width:248px" /></a>
+
 </div>
 
 </br>
