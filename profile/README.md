@@ -6,11 +6,7 @@
 
 # Bitlaab Bolt - 
 
-_bitlaab_ is the answer for your business, we allow you to create a solid digital base for your business, products, and services. _bitlaab_ works with a passion for innovative companies.
-
-We provide Software Development, Web Application Development, Mobile Application Development, API development, SEO Services, Marketing Digitally, and All Kinds Of Design Services. We’re a team motivated to make an impact on the way people live. We’ve digitized several businesses to make them focus on their goal.
-
-bitlaab has been working closely with clients who care about their business. We would be happy to contribute to your business point of view. We build the products that keep you on the edge of technology. We care about your goals, we see your success as our success.
+A Cross-platform GUI Toolset for Building Lightning Fast Desktop Application in Zig
 
 </div>
 
