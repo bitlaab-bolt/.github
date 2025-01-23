@@ -8,10 +8,6 @@
 
 A Cross-platform GUI Toolset for Building Lightning Fast Desktop Applications in Zig
 
-If you need custom modules or tools, please mail us at **hello.bitlaab@gmail.com** and buy us some coffee.
-
- <a href="https://buymeacoffee.com/bitlaab" target="_blank" className="mx-auto block w-fit mt-12 mb-4"><img src="https://github.com/bitlaab-bolt/.github/blob/main/profile/coffee-btn.svg" alt="Buy Us Some Coffee" style="height:56px;" /></a>
-
 </div>
 
 </br>
